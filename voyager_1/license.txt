@@ -1,0 +1,11 @@
+Model Information:
+* title:	Voyager 1
+* source:	https://sketchfab.com/3d-models/voyager-1-f626e0b2d37b46dab4c9433306720c4b
+* author:	Sidharth1 (https://sketchfab.com/Sidharth1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Voyager 1" (https://sketchfab.com/3d-models/voyager-1-f626e0b2d37b46dab4c9433306720c4b) by Sidharth1 (https://sketchfab.com/Sidharth1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
