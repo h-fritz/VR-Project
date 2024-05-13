@@ -1,0 +1,8 @@
+Model Information:
+* title:	Orbiter Space Shuttle OV-103 Discovery
+* source:	https://sketchfab.com/3d-models/orbiter-space-shuttle-ov-103-discovery-5f7176a2ae284d6b99fc970c9d265c04
+* author:	The Smithsonian Institution (https://sketchfab.com/Smithsonian)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
