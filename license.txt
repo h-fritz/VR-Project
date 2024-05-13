@@ -1,11 +1,11 @@
 Model Information:
-* title:	Mars
-* source:	https://sketchfab.com/3d-models/mars-5fc8b7168b044527a05ed3903c998b65
-* author:	AirStudios (https://sketchfab.com/sebbe613)
+* title:	Voyager 1
+* source:	https://sketchfab.com/3d-models/voyager-1-f626e0b2d37b46dab4c9433306720c4b
+* author:	Sidharth1 (https://sketchfab.com/Sidharth1)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Mars" (https://sketchfab.com/3d-models/mars-5fc8b7168b044527a05ed3903c998b65) by AirStudios (https://sketchfab.com/sebbe613) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Voyager 1" (https://sketchfab.com/3d-models/voyager-1-f626e0b2d37b46dab4c9433306720c4b) by Sidharth1 (https://sketchfab.com/Sidharth1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
