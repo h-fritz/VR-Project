@@ -1,0 +1,11 @@
+Model Information:
+* title:	NASA Parker Solar Probe
+* source:	https://sketchfab.com/3d-models/nasa-parker-solar-probe-8dc24d1695574316850e973dadbb8cc4
+* author:	Space Explorers Academy (https://sketchfab.com/SpaceExplorersAcademy)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NASA Parker Solar Probe" (https://sketchfab.com/3d-models/nasa-parker-solar-probe-8dc24d1695574316850e973dadbb8cc4) by Space Explorers Academy (https://sketchfab.com/SpaceExplorersAcademy) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
