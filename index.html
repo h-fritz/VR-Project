@@ -10,25 +10,48 @@
   <body>
       <a-scene>
 
-          <a-camera wasd-controls="acceleration: 3000; fly: true;">
+          <a-camera wasd-controls="acceleration: 2000; fly: true;">
             <a-gltf-model src="light_fighter_spaceship_-_free_-/scene.gltf" scale=".5 .5 .5" position="0 0 -8" rotation="180 0 0"></a-gltf-model>
           </a-camera>
 
           <a-sky src="HuGGeENt6kGyixe3hT9tnY-1200-80.jpg"></a-sky>
-          <a-gltf-model src="sun__star_with_procedural_textures/scene.gltf" scale="3 3 3" position="0 0 0"></a-gltf-model>
-          <a-gltf-model src="earth-2/scene.gltf" scale=".1 .1 .1" position="-125 0 0"></a-gltf-model>
-          <a-gltf-model src="mars/scene.gltf" scale="1 1 1" position="-200 0 0"></a-gltf-model>
-          <a-gltf-model src="voyager_1/scene.gltf" scale="3 3 3" position="-475 0 0"></a-gltf-model>
-          <a-gltf-model src="iss_interiorinternational_space_station/scene.gltf" scale=".1 .1 .1" position="-160 0 -8"></a-gltf-model>
-          <a-gltf-model src="nasa_parker_solar_probe/scene.gltf" scale="1 1 1" position="-40 0 0" rotation="0 -90 0"></a-gltf-model>
-          <a-gltf-model src="orbiter_space_shuttle_ov-103_discovery/scene.gltf" scale="1 1 1" position="300 0 0"></a-gltf-model>
-          <a-gltf-model src="mercury-2/scene.gltf" scale="2 2 2" position="-50 0 0"></a-gltf-model>
-          <a-gltf-model src="venus/scene.gltf" scale="3 3 3" position="-80 -2 0"></a-gltf-model>
-          <a-gltf-model src="jupiter/scene.gltf" scale="15 15 15" position="-250 0 0"></a-gltf-model>
-          <a-gltf-model src="saturn/scene.gltf" scale=".2 .2 .2" position="-325 0 0"></a-gltf-model>
-          <a-gltf-model src="uranus/scene.gltf" scale=".2 .2 .2" position="-375 0 0"></a-gltf-model>
-          <a-gltf-model src="neptune/scene.gltf" scale=".2 .2 .2" position="-425 0 0"></a-gltf-model>    
-
+          <a-gltf-model src="sun__star_with_procedural_textures/scene.gltf" scale="3 3 3" position="0 0 0" animation: ></a-gltf-model>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 500000; easing: linear; loop: true;">
+            <a-gltf-model src="earth-2/scene.gltf" scale=".1 .1 .1" position="-125 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 10000;"></a-gltf-model>
+            </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 500000; easing: linear; loop: true;">
+            <a-gltf-model src="iss_interiorinternational_space_station/scene.gltf" scale=".1 .1 .1" position="-160 0 -8"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 300000; easing: linear; loop: true;">
+            <a-gltf-model src="mars/scene.gltf" scale="1 1 1" position="-200 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 15000;"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 200000; easing: linear; loop: true;">
+            <a-gltf-model src="nasa_parker_solar_probe/scene.gltf" scale="1 1 1" position="-40 0 0" rotation="0 -90 0"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 500000; easing: linear; loop: true;">
+            <a-gltf-model src="orbiter_space_shuttle_ov-103_discovery/scene.gltf" scale=".5 .5 .5" position="-180 0 0"></a-gltf-model>           
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 50000; easing: linear; loop: true;">
+            <a-gltf-model src="mercury-2/scene.gltf" scale="2 2 2" position="-50 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 1000;"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 120000; easing: linear; loop: true;">
+            <a-gltf-model src="venus/scene.gltf" scale="3 3 3" position="-80 -2 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 5000;"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 700000; easing: linear; loop: true;">
+            <a-gltf-model src="jupiter/scene.gltf" scale="15 15 15" position="-250 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 25000;"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 900000; easing: linear; loop: true;">
+            <a-gltf-model src="saturn/scene.gltf" scale=".2 .2 .2" position="-300 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 30000;"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 1100000; easing: linear; loop: true;">
+            <a-gltf-model src="uranus/scene.gltf" scale=".2 .2 .2" position="-375 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 35000;"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 1200000; easing: linear; loop: true;">
+            <a-gltf-model src="neptune/scene.gltf" scale=".2 .2 .2" position="-425 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 45000;"></a-gltf-model>
+          </a-entity>
+          <a-entity position="0 0 0" animation="property: rotation; to: 0 360 0; dur: 200000; easing: linear; loop: true;">
+            <a-gltf-model src="voyager_1/scene.gltf" scale="4 4 4" position="-475 0 0" animation="property: rotation; from: 0 0 0; to: 0 360 0; loop: true; easing: linear; dur: 40000;"></a-gltf-model>
+          </a-entity>
       </a-scene>
   </body>
 </html>
